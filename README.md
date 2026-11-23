@@ -1,4 +1,110 @@
-Primeiros Arco de eventos para a Cidade pRP.
+====================================================================
+PROJETO pRP - RESUMO DOS EVENTOS (MURALHA ATLAS)
+====================================================================
 
-UPDATES
-23/11/2026: Publicação do arquivo
+OBJETIVO GERAL DA CAMPANHA
+- Criar uma escada de 3 eventos menores antes do evento principal do portao.
+- A passagem de um evento para o outro nao depende de quantidade fixa, mas sim da ADESAO dos jogadores no RP.
+- Tudo prepara a cidade para o clima de tensao ate a brecha no portao e, depois, para o evento na Humane Labs.
+
+
+--------------------------------------------------------------------
+EVENTO 1: INTERFERENCIA (A SABOTAGEM DA DELTA)
+--------------------------------------------------------------------
+
+1. O Bico Novo na Prefeitura
+- Libera um trabalho temporario na prefeitura para fazer vasculha na Muralha Atlas.
+- Missao: ir nos postos do muro e remover os NPCs que estao por la.
+- Regras: paga bem para incentivar a galera a fazer, limite de 2 vezes por dia por jogador, e so pode fazer em grupo (dupla ou 4 pessoas montando party).
+- Decisao da staff: definir se fica aberto para todos (recomendado para gerar mais movimento e medir adesao) ou so para policia/bombeiros.
+
+2. O Caminhao Tombado (Trabalho da DELTA)
+- Depois de um tempo com o pessoal trabalhando no muro, um caminhao da fronteira tomba (acao da DELTA, antigo nome Jardineiros).
+- Ordem dos alertas:
+  * 3 minutos antes: Jornalistas e pessoal do Ilegal com cargo maior recebem o aviso primeiro.
+  * Na hora do impacto: quem esta fazendo o bico novo da muralha e notificado e vai la ver.
+  * Um pouco depois: a Policia e os trabalhadores da muralha recebem o chamado oficial.
+
+3. Saque da Carga (Minigames)
+- Para abrir o caminhao: precisa de um minigame em dupla (coop).
+- Quando abre, caem varias caixas no chao.
+- Cada jogador pode ir sozinho abrir uma caixa fazendo um minigame bem dificil.
+- Se conseguir abrir, ganha um dos 12 itens especiais (6 leves e 6 pesados):
+  * Leves (6): Fita Cassete "1983", Cracha Oxidado Setor Alfa, Cartao Perfurado F.E.N.D.A., Bilhete Anonimo da DELTA, Amostra de Nanofilamento, Pagina Rasgada do Dr. Sterling.
+  * Pesados / Mais importantes (6): Modulo de Servidor G.A.I.A., Cilindro de Criopreservacao, Transceptor Subterraneo, Bateria Nuclear Compacta, Caixa Preta da Fronteira, Nucleo de Circuito Pos-1980.
+
+4. Contencao da Policia e Equipe da Muralha
+- Quando chegam no local, aparece uma area visivel de 20 metros em volta do caminhao.
+- Objetivo: manter a area sem NENHUM civil (so oficiais e equipe da muralha) por 20 minutos.
+- Se um civil entrar na area, o cronometro para na hora e so volta a contar quando o civil sair (forcando a policia a expulsar a galera de la).
+- Dentro da area, os oficiais podem fazer minigames (isolar area, colocar fitas, remover destrocos) para diminuir o tempo de espera (sugestao: limite maximo de 8 minutos reduzidos).
+
+
+--------------------------------------------------------------------
+EVENTO 2: A FEBRE DA FRONTEIRA (HOSPITAL E PROTESTOS)
+--------------------------------------------------------------------
+
+1. Resgate na Muralha
+- Evento focado inicialmente em medicos, bombeiros e patrulha da muralha.
+- Aparecem de 3 a 12 NPCs muito doentes perto da muralha (exigindo mobilizar bastante gente).
+- Os jogadores pegam esses NPCs e levam ate o hospital.
+
+2. Tratamento e Banho de Descontaminacao
+- No hospital, os medicos fazem minigames dificeis e demorados para tratar os pacientes e descobrem que eles estao muito doentes (dica de lore: laudo mostra que nao e radiacao).
+- Parte final da policia e equipe da muralha: precisam ir tomar um banho para desinfectar da "radiacao".
+
+3. Alerta no Pager (Hospital Lotado)
+- Se o hospital ficar muito carregado, dispara uma mensagem no pager para toda a cidade avisando que o hospital esta lotado de doentes vindos da muralha.
+- Chegando no ponto de inicio da missao, cada jogador escolhe um lado: AJUDAR ou PROTESTAR.
+
+4. Lado AJUDAR
+- Civil comum: faz missao de logistica levando suprimentos para o hospital.
+- Ilegal: recebe missao de roubar mascaras e remedios em alguns locais especificos e levar para ajudar no tratamento.
+
+5. Lado PROTESTAR / SABOTAR
+- Civil comum: fica na frente do hospital com animacao de placa protestando.
+- Ilegal: pode tentar invadir a area de recursos (sugestao: deixar os estoques numa tenda externa/garagem para nao atrapalhar os medicos no minigame) e roubar o material dos pacientes.
+- Beep no minimapa (para ambos): recebem um Beep periodico mostrando mais ou menos onde esta o carro trazendo os pacientes, podendo tentar bloquear e impedir o carro de chegar no hospital.
+
+
+--------------------------------------------------------------------
+EVENTO 3: O APAGAO (BLACKOUT NA CIDADE TODA)
+--------------------------------------------------------------------
+
+1. Queda de Energia Geral
+- A energia cai na cidade inteira (blackout).
+- O evento divide a cidade em 3 frentes acontecendo ao mesmo tempo:
+
+2. Frente 1 - Usina de Energia (Mecanicos + Medicos)
+- Mecanicos vao ate a area de energia da cidade para fazer varios minigames e consertar o gerador.
+- Os jogadores podem morrer ali (choques/risco real), entao pelo menos 1 medico precisa ir junto para salvar quem cair.
+
+3. Frente 2 - Entrada da Prefeitura (Policia + Civis)
+- Assim que a energia cai, todos os jogadores recebem aviso para ir para a entrada da prefeitura.
+- A policia fica la protegendo a populacao.
+- Ainda nao aparece nenhum monstro: quem aparece querendo descer a porrada, facada e taco na galera sao os NPCs doentes que estavam internados no hospital.
+
+4. Frente 3 - Delegacia no Escuro (Trabalho do Ilegal)
+- O ilegal pode escolher ficar se protegendo na prefeitura OU fazer um trabalho unico deles: aproveitar o apagao para invadir a delegacia e roubar armas, evidencias e materiais para drogas.
+- Quando os mecanicos religam a energia, a luz volta na cidade inteira e uma sirene distante toca na Muralha Atlas (gancho pro evento final).
+
+
+--------------------------------------------------------------------
+EVENTO FINAL: A BRECHA NO PORTAO (REPETIVEL)
+--------------------------------------------------------------------
+
+1. A Situacao
+- Um dos portoes da Muralha Atlas da problema e abre ate a metade.
+- Ondas de bichos simples (tipo "zumbizinhos", nada exageradamente esquisito) comecam a entrar.
+- Como a galera nao tem armas muito fortes, fechar o portao vai dar trabalho e demorar um pouco.
+
+2. Como Toda a Cidade Participa (Fechamento em 4 etapas: 25%, 50%, 75%, 100%)
+- Policia / Militares / Ilegal: seguram as ondas de bichos na linha de frente.
+- 2 Jogadores no Portao: fazem o minigame coop sincronizado (um na esquerda e outro na direita) para ir baixando o portao.
+- Mecanicos e Civis (Manutencao): a cada 25% o motor superaquece e trava; eles precisam consertar duas caixas de forca laterais para liberar o minigame de novo.
+- Civis Comuns (Logistica): carregam caixas de municao, pecas e kits medicos do caminhao de apoio ate a linha de frente.
+- Medicos (Triagem): ficam na zona segura reanimando feridos e estabilizando quem teve contato intenso com os bichos.
+
+3. Objetivo Final e Gancho
+- 1) Dar o sentimento real de que a cidade nao esta segura, existe algo do outro lado, o muro tem um motivo para existir e eles precisam se unir.
+- 2) Quem teve contato intenso com os bichos fica "marcado" pelo sistema, ficando doente/infectado — o que abre margem direta para o proximo evento na Humane Labs.
