@@ -1,6 +1,5 @@
-====================================================================
 PROJETO pRP - RESUMO DOS EVENTOS (MURALHA ATLAS)
-====================================================================
+
 
 OBJETIVO GERAL DA CAMPANHA
 - Criar uma escada de 3 eventos menores antes do evento principal do portao.
